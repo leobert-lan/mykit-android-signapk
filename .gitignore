@@ -1,6 +1,6 @@
 # maven ignore
 target/
-*.jar
+#*.jar
 *.war
 *.zip
 *.tar
@@ -36,3 +36,4 @@ Thumbs.db
 # Android ignore
 *.apk
 .apk
+/out/
